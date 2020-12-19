@@ -1,0 +1,10 @@
+{
+  "name": "webpacksimilardeno",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "beiranvand-karim <beiranvand.karim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "deno run --allow-read --allow-write --unstable index.ts"
+  }
+}
